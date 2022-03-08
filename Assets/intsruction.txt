@@ -1,0 +1,11 @@
+Topics :
+HTML - Overview - https://www.w3schools.com/html/html_intro.asp
+HTML Page Structure - https://www.w3schools.com/html/html_intro.asp
+HTML - Tags - https://www.w3schools.com/TAGS/default.ASP
+HTML - Attributes - https://www.w3schools.com/html/html_attributes.asp
+
+
+Task Assignment :
+1] Go through all HTML Tags with an example from here https://www.w3schools.com/html/default.asp
+
+2] Create Your First HTML Webpage

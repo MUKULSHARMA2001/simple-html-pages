@@ -1,0 +1,9 @@
+.unordered-list
+{
+    /*unordered list style for circle icon*/
+    list-style-type: circle;
+}
+.header-image{
+    height: 400px;
+    width: 1000px;
+}
